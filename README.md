@@ -1,28 +1,29 @@
-[![MasterHead](https://user-images.githubusercontent.com/11348/165750845-5df00a31-f3f5-436f-989a-be7faecddfb6.jpg)](https://siddharthsagar77.io)
-<h1 align="center">Hi 👋, I'm Siddharth Sagar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<h1 align="center">Hi 👋, I'm [Your Name]</h1> <h3 align="center">Data Analyst | Business Analyst | Full-Stack Web Developer | Data Scientist</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+full-stack+web+apps;Data+Science+%7C+ML+%7C+Analytics+Student" alt="Typing SVG" /> </p> <p align="center"> <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
+🚀 About Me
+🎓 Data Analytics & Business Analytics student
+💻 Full-time Web Developer (Front-end + Back-end)
+📊 Data Scientist — building models, dashboards & data pipelines
+🌱 Currently deepening my skills in Machine Learning, SQL optimization, and React
+👯 Open to collaborating on data-driven web apps and analytics projects
+⚡ Fun fact: I turn messy spreadsheets into clean insights and clean code into working products
+🛠️ Tech Stack
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthsagar77&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthsagar77" /> </p>
+Data Analytics / Business Analytics
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white" /> <img src="https://img.shields.io/badge/SPSS-005A9C?style=flat-square" /> </p>
 
-- 🌱 I’m currently learning **javascript**
+Data Science / Machine Learning
 
-- 💬 Ask me about **c , html ,css**
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" /> </p>
 
-- 📫 How to reach me **tyrantsbeats@gmail.com**
+Web Development
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/tyrants_beats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tyrants_beats" height="30" width="40" /></a>
-</p>
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+Tools & Platforms
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthsagar77&show_icons=true&locale=en&layout=compact" alt="siddharthsagar77" /></p>
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthsagar77&show_icons=true&locale=en" alt="siddharthsagar77" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthsagar77&" alt="siddharthsagar77" /></p>
+📈 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" /> </p> <h3 align="center">💬 "Data tells the story, code builds the experience."</h3>
